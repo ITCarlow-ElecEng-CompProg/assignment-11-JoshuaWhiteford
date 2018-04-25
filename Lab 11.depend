@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1512400050 source:d:\programming\lab ex\lab 11\main.cpp
+	<iostream>
+	<math.h>
+	<tgmath.h>
+
